@@ -1,0 +1,169 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Undefined context while filtering dialog/window contexts",1391796738225
+error,log,,,"Undefined context while filtering dialog/window contexts",1391796738225
+error,log,,,"Undefined context while filtering dialog/window contexts",1391796738226
+error,log,,,"Undefined context while filtering dialog/window contexts",1391796738226
+started,bundle,com.bandlem.eclipse.fullscreen.ui,1.0.4.201108061054,"com.bandlem.eclipse.fullscreen.ui",1391796738305
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796744521
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796772432
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1391796772473
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391796786593
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796793222
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391796797846
+opened,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796798055
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796798109
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796800185
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796807011
+opened,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796807115
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796807190
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796809409
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796809410
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796812964
+error,log,,,"error during type inferencing",1391796813899
+executed,command,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.edit.text.java.format",1391796822820
+error,log,,,"error during type inferencing",1391796823572
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.undo",1391796828660
+error,log,,,"error during type inferencing",1391796829237
+activated,view,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views.ContentOutline",1391796833130
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796834480
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1391796847127
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796850257
+activated,view,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.views.ProblemView",1391796851262
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796858552
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796860459
+error,log,,,"Unexpected runtime error while computing a text hover",1391796861575
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391796863410
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796868192
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796874421
+error,log,,,"error during type inferencing",1391796876587
+error,log,,,"error during type inferencing",1391796876726
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796876748
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796892373
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1391796898660
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796905077
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796909057
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1391796909086
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1391796915636
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.2.100.v201105122000,"org.eclipse.wst.common.frameworks.ui",1391796923756
+started,bundle,org.eclipse.wst.validation.ui,1.2.300.v201201050300,"org.eclipse.wst.validation.ui",1391796923756
+started,bundle,org.eclipse.wst.validation,1.2.303.v201202090300,"org.eclipse.wst.validation",1391796923767
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1391796923781
+started,bundle,org.eclipse.wst.common.frameworks,1.2.102.v201201190400,"org.eclipse.wst.common.frameworks",1391796923854
+started,bundle,org.eclipse.wst.xml.core,1.1.602.v201201091944,"org.eclipse.wst.xml.core",1391796923866
+started,bundle,org.eclipse.wst.dtd.core,1.1.501.v201107252021,"org.eclipse.wst.dtd.core",1391796923867
+started,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1391796923872
+started,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1391796923873
+started,bundle,org.eclipse.wst.sse.core,1.1.602.v201112071516,"org.eclipse.wst.sse.core",1391796923885
+started,bundle,org.eclipse.wst.xsd.core,1.1.600.v201104070312,"org.eclipse.wst.xsd.core",1391796923889
+started,bundle,org.eclipse.wst.xsl.core,1.1.100.v201102270516,"org.eclipse.wst.xsl.core",1391796923898
+started,bundle,org.eclipse.wst.html.core,1.1.502.v201202091936,"org.eclipse.wst.html.core",1391796923929
+started,bundle,org.eclipse.wst.css.core,1.1.501.v201111292150,"org.eclipse.wst.css.core",1391796924011
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1391796924014
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1391796924345
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1391796924411
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1391796924711
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1391796924728
+started,bundle,org.eclipse.wst.common.emf,1.2.100.v201101101900,"org.eclipse.wst.common.emf",1391796924733
+started,bundle,org.eclipse.jem.util,2.1.100.v201103021400,"org.eclipse.jem.util",1391796924742
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1391796924747
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.101.v201107140600,"org.eclipse.wst.common.emfworkbench.integration",1391796924748
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1391796924804
+started,bundle,org.eclipse.wst.common.modulecore,1.2.103.v201201190400,"org.eclipse.wst.common.modulecore",1391796924806
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796925680
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796929115
+started,bundle,org.eclipse.debug.core,3.7.1.v20111129-2031,"org.eclipse.debug.core",1391796933682
+started,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1391796933730
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796936658
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796941753
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1391796941787
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796947044
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796949273
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1391796949301
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796955790
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796963777
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.properties",1391796963803
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796968106
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796974451
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391796974451
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391796977991
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796980534
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796984370
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.delete",1391796984397
+error,log,,,"error during type inferencing",1391796984626
+error,log,,,"error during type inferencing",1391796984633
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1391796985964
+error,log,,,"Errors occurred during the build.",1391796985968
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796985986
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796986042
+opened,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391796986219
+error,log,,,"Undefined context while filtering dialog/window contexts",1391796986231
+activated,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391796986257
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796988534
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391796993075
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391796995193
+opened,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391797001225
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391797001287
+error,log,,,"error during type inferencing",1391797001845
+error,log,,,"Unexpected runtime error while computing a text hover",1391797005102
+activated,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391797010889
+closed,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391797010889
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391797012538
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797018038
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797020006
+activated,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391797020021
+activated,view,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.PackageExplorer",1391797021517
+activated,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391797029140
+activated,editor,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui.CompilationUnitEditor",1391797029205
+closed,editor,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.DefaultTextEditor",1391797029205
+started,bundle,org.eclipse.wst.server.core,1.1.304.v20120208_1420,"org.eclipse.wst.server.core",1391797032103
+started,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1391797032119
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1391797032135
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797032574
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797035687
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797046504
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797062064
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.window.preferences",1391797062091
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797365114
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797368407
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797369437
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797431222
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391797432551
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391906307803
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1391906307908
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk",1391906308425
+stopped,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.200.v201103081922,"org.eclipse.wst.xsl.jaxp.debug.ui",1391906308426
+stopped,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1391906308427
+stopped,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1391906308438
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1391906308439
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.ui",1391906308440
+stopped,bundle,org.eclipse.wst.web.ui,1.1.500.v201111030500,"org.eclipse.wst.web.ui",1391906308441
+stopped,bundle,org.eclipse.wst.html.ui,1.0.602.v201202091936,"org.eclipse.wst.html.ui",1391906308441
+stopped,bundle,org.eclipse.wst.css.ui,1.0.601.v201201101544,"org.eclipse.wst.css.ui",1391906308441
+stopped,bundle,org.eclipse.wst.xsl.exslt.ui,1.0.0.v201006012005,"org.eclipse.wst.xsl.exslt.ui",1391906308441
+stopped,bundle,org.eclipse.wst.xsl.ui,1.1.200.v201103082057,"org.eclipse.wst.xsl.ui",1391906308443
+stopped,bundle,org.eclipse.wst.xml.xpath.ui,1.1.100.v201105030025,"org.eclipse.wst.xml.xpath.ui",1391906308444
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.404.v201105050216,"org.eclipse.wst.xsd.ui",1391906308447
+stopped,bundle,org.eclipse.wst.xsl.debug.ui,1.0.200.v201101281837,"org.eclipse.wst.xsl.debug.ui",1391906308448
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1391906308448
+stopped,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1391906308449
+stopped,bundle,org.eclipse.wst.jsdt.debug.rhino.ui,1.0.1.v201201112313,"org.eclipse.wst.jsdt.debug.rhino.ui",1391906308449
+stopped,bundle,org.eclipse.wst.jsdt.debug.ui,1.0.101.v201201112313,"org.eclipse.wst.jsdt.debug.ui",1391906308449
+stopped,bundle,org.eclipse.wst.jsdt.support.firefox,1.0.400.v201008112000,"org.eclipse.wst.jsdt.support.firefox",1391906308450
+stopped,bundle,org.eclipse.wst.jsdt.ui,1.1.102.v201201131900,"org.eclipse.wst.jsdt.ui",1391906308478
+stopped,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1391906308478
+stopped,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1391906308479
+stopped,bundle,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.resources",1391906308479
+stopped,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1391906308479
+stopped,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1391906308480
+stopped,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1391906308482
+stopped,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1391906308482
+stopped,bundle,org.eclipse.ui.externaltools,3.2.0.v20111007_r372,"org.eclipse.ui.externaltools",1391906308484
+stopped,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1391906308484
+stopped,bundle,org.eclipse.wst.server.http.ui,1.0.200.v20090113,"org.eclipse.wst.server.http.ui",1391906308484
+stopped,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1391906308485
+stopped,bundle,org.eclipse.debug.ui,3.7.102.v20111129-1423_r372,"org.eclipse.debug.ui",1391906308488
+stopped,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1391906308488
+stopped,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1391906308489
+stopped,bundle,org.eclipse.wst.common.snippets,1.2.100.v201103281740,"org.eclipse.wst.common.snippets",1391906308489
+stopped,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1391906308489
+stopped,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1391906308489
