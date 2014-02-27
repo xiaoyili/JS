@@ -1857,3 +1857,152 @@ java.lang.NullPointerException
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-25 21:26:42.442
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:669)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:674)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:387)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:443)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnitProblemFinder.accept(CompilationUnitProblemFinder.java:174)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForBinding(LookupEnvironment.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:132)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getType(LookupEnvironment.java:766)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getResolvedType(LookupEnvironment.java:720)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:1745)
+	at org.eclipse.wst.jsdt.core.dom.DefaultBindingResolver.resolveExpressionType(DefaultBindingResolver.java:604)
+	at org.eclipse.wst.jsdt.core.dom.Expression.resolveTypeBinding(Expression.java:111)
+	at org.eclipse.wst.jsdt.internal.corext.refactoring.nls.NLSHintHelper.getAccessorClassReference(NLSHintHelper.java:97)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo(NLSStringHover.java:96)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo2(AbstractJavaEditorTextHover.java:95)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:147)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:78)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.wst.sse.ui 2 2 2014-02-25 23:35:10.904
+!MESSAGE StructuredTextEditor being used without StructuredDocument
+
+!ENTRY org.eclipse.wst.sse.ui 2 2 2014-02-25 23:35:10.942
+!MESSAGE          Input Name: index.ejs
+
+!ENTRY org.eclipse.wst.sse.ui 2 2 2014-02-25 23:35:10.943
+!MESSAGE         Unexpected IDocumentProvider implementation: org.eclipse.ui.editors.text.TextFileDocumentProvider
+
+!ENTRY org.eclipse.wst.sse.ui 2 2 2014-02-25 23:35:10.945
+!MESSAGE         Unexpected IDocument implementation: org.eclipse.core.internal.filebuffers.SynchronizableDocument
+
+!ENTRY org.eclipse.core.resources 2 2 2014-02-26 13:04:00.757
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2014-02-26 13:04:00.757
+!MESSAGE The project description file (.project) for 'myBlog' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 13:22:40.129
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:669)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:674)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:387)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:443)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnitProblemFinder.accept(CompilationUnitProblemFinder.java:174)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForBinding(LookupEnvironment.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:132)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getType(LookupEnvironment.java:766)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getResolvedType(LookupEnvironment.java:720)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:1745)
+	at org.eclipse.wst.jsdt.core.dom.DefaultBindingResolver.resolveExpressionType(DefaultBindingResolver.java:604)
+	at org.eclipse.wst.jsdt.core.dom.Expression.resolveTypeBinding(Expression.java:111)
+	at org.eclipse.wst.jsdt.internal.corext.refactoring.nls.NLSHintHelper.getAccessorClassReference(NLSHintHelper.java:97)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo(NLSStringHover.java:96)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo2(AbstractJavaEditorTextHover.java:95)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:147)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:78)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 15:42:30.431
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:669)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.connectTypeHierarchy(CompilationUnitScope.java:674)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:387)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:443)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnitProblemFinder.accept(CompilationUnitProblemFinder.java:174)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForBinding(LookupEnvironment.java:279)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.askForType(LookupEnvironment.java:132)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getType(LookupEnvironment.java:766)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.getResolvedType(LookupEnvironment.java:720)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.Scope.getJavaLangString(Scope.java:1745)
+	at org.eclipse.wst.jsdt.core.dom.DefaultBindingResolver.resolveExpressionType(DefaultBindingResolver.java:604)
+	at org.eclipse.wst.jsdt.core.dom.Expression.resolveTypeBinding(Expression.java:111)
+	at org.eclipse.wst.jsdt.internal.corext.refactoring.nls.NLSHintHelper.getAccessorClassReference(NLSHintHelper.java:97)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.NLSStringHover.getHoverInfo(NLSStringHover.java:96)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo2(AbstractJavaEditorTextHover.java:95)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:147)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:78)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 15:56:01.992
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+org.eclipse.wst.jsdt.internal.codeassist.select.SelectionNodeFound
+	at org.eclipse.wst.jsdt.internal.codeassist.select.SelectionOnArgumentName.bind(SelectionOnArgumentName.java:29)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.AbstractMethodDeclaration.bindArguments(AbstractMethodDeclaration.java:141)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope$DeclarationVisitor.visit(CompilationUnitScope.java:114)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.MethodDeclaration.traverse(MethodDeclaration.java:165)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.traverse(CompilationUnitDeclaration.java:584)
+	at org.eclipse.wst.jsdt.internal.compiler.ast.CompilationUnitDeclaration.traverse(CompilationUnitDeclaration.java:545)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.CompilationUnitScope.buildTypeBindings(CompilationUnitScope.java:392)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.buildTypeBindings(LookupEnvironment.java:320)
+	at org.eclipse.wst.jsdt.internal.compiler.lookup.LookupEnvironment.buildTypeBindings(LookupEnvironment.java:316)
+	at org.eclipse.wst.jsdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:729)
+	at org.eclipse.wst.jsdt.internal.core.Openable.codeSelect(Openable.java:167)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:318)
+	at org.eclipse.wst.jsdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:312)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo(AbstractJavaEditorTextHover.java:114)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.AbstractJavaEditorTextHover.getHoverInfo2(AbstractJavaEditorTextHover.java:95)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:147)
+	at org.eclipse.wst.jsdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:78)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 21:49:03.121
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 22:02:45.333
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 22:03:17.340
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 22:32:04.778
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.jface.text 4 0 2014-02-26 22:34:54.226
+!MESSAGE Unexpected runtime error while computing a text hover
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2014-02-26 22:45:20.589
+!MESSAGE error during type inferencing
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2014-02-26 22:45:20.591
+!MESSAGE error during type inferencing
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2014-02-26 22:45:21.622
+!MESSAGE error during type inferencing
+!STACK 0
+java.lang.NullPointerException

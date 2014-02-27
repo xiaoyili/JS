@@ -1,0 +1,2 @@
+127.0.0.1 - - [Thu, 27 Feb 2014 16:00:45 GMT] "GET / HTTP/1.1" 200 207 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36"
+127.0.0.1 - - [Thu, 27 Feb 2014 16:00:58 GMT] "GET / HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36"

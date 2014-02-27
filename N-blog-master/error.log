@@ -1,0 +1,42 @@
+[Thu Feb 27 2014 11:00:45 GMT-0500 (EST)] /
+TypeError: /Volumes/HDD750/home/Documents/github/JS/N-blog-master/views/index.ejs:9
+    7|     日期：<%= post.time.minute %> | 
+    8|     标签：
+ >> 9|     <% post.tags.forEach(function (tag, index) { %>
+    10|       <% if (tag) { %>
+    11|         <a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+    12|       <% } %>
+
+Cannot call method 'forEach' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:31:720)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:35:35)
+    at /Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:250:15
+    at Object.exports.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:288:13)
+    at View.exports.renderFile [as engine] (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:318:20)
+    at View.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/response.js:798:7)
+[Thu Feb 27 2014 11:00:58 GMT-0500 (EST)] /
+TypeError: /Volumes/HDD750/home/Documents/github/JS/N-blog-master/views/index.ejs:9
+    7|     日期：<%= post.time.minute %> | 
+    8|     标签：
+ >> 9|     <% post.tags.forEach(function (tag, index) { %>
+    10|       <% if (tag) { %>
+    11|         <a class="tag" href="/tags/<%= tag %>"><%= tag %></a>
+    12|       <% } %>
+
+Cannot call method 'forEach' of undefined
+    at buf.push.
+.buf (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:31:720)
+    at Array.forEach (native)
+    at eval (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:31:58)
+    at eval (eval at <anonymous> (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:237:14), <anonymous>:35:35)
+    at /Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:250:15
+    at Object.exports.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:288:13)
+    at View.exports.renderFile [as engine] (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/ejs/lib/ejs.js:318:20)
+    at View.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/view.js:76:8)
+    at Function.app.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/application.js:504:10)
+    at ServerResponse.res.render (/Volumes/HDD750/home/Documents/github/JS/N-blog-master/node_modules/express/lib/response.js:798:7)
